@@ -3,3 +3,4 @@ server:
 
 encrypt:
   key: larh-secrets
+  value: '{cipher} 61438b468c3a587f67b2a99da787f16bf4f44bd71da251850a48ee77f434531a'
