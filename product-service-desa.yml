@@ -2,5 +2,5 @@ server:
   port: 9001
 
 encrypt:
-  key: larh-secrets
+  key: larh
   value: '{cipher}bb550fe37a08551ef344ed9c7745c829d41fe083ab6f09fc88e2edfcdc43273c'
