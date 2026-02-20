@@ -13,8 +13,8 @@ spring:
     mongodb:
       host: localhost
       port: 27017
-      # username: larh
-      # password: larh
+      username: larh
+      password: larh
       database: larhdb
       # uri: mongodb://larh:larh@localhost:27017/larhdb
       authentication-database: admin
