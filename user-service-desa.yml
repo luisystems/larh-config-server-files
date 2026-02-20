@@ -29,7 +29,7 @@ spring:
       # username: larh
       # password: larh
       database: larhdb
-      uri: mongodb://larh:larh@localhost:27017/larhdb
+      uri: mongodb://larh:larh@localhost:27017/larhdb?authSource=admin
 
 encrypt:
   key: larh
