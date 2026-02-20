@@ -24,11 +24,6 @@ eureka:
 spring:
   data:
     mongodb:
-      host: localhost
-      port: 27017
-      # username: larh
-      # password: larh
-      database: larhdb
       uri: mongodb://larh:larh@localhost:27017/larhdb?authSource=admin
 
 encrypt:
